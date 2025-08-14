@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sulagna+Ghosh+%F0%9F%91%8B;Machine+Learning+Enthusiast;Python+Developer;Full-Stack+Engineer;Building+Next-Gen+AI+Solutions!" alt="Typing SVG" />
+</div>
+
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FSulagnaghosh3630aa6f.png?alt=media)
 <h1 align="center">Hi 👋, I'm Sulagna Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
